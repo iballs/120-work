@@ -1,5 +1,7 @@
 ### Ian Baldessari // MART 120, Sec 50
 
+[It's a Bear!](https://iballs.github.io/120-work/hw-4/)
+
 ## HW-4 Reflection
 
 Oh boy did it take me a long time to figure out how to make this bear. I think I understand the order of operations and placing shapes fairly well, but I struggled with moving objects around the canvas. The commands that gave me the most trouble were:
