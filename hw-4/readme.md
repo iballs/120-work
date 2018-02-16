@@ -2,7 +2,7 @@
 
 ## HW-4 Reflection
 
-Oh boy it it take me a long time to figure out how to make this bear. I think I understand the order of operations and placing shapes fairly well, but I struggled with moving objects around the canvas. The commands that gave me the most trouble were:
+Oh boy did it take me a long time to figure out how to make this bear. I think I understand the order of operations and placing shapes fairly well, but I struggled with moving objects around the canvas. The commands that gave me the most trouble were:
 
 - arc
 - translate
@@ -16,4 +16,4 @@ Rotate and translate when used in conjunction still confuse the hell out of me. 
 
 Another issue I ran into, which really was just an annoying bug was that my index.html would not open in chrome. It worked the first time I sat down to work on this assignment, but not the second or the third time. I had to fallback and use safari. Any idea as to why this happens? Everytime I told my index.html to open in chrome it would just open a new browser window.
 
-I enjoyed this weeks assignment and it got me thinking about how to place objects on a canvas. Before starting on my assignment I actually made my creature in Illustrator to get a grasp on where things would be placed in reference to the pixels on the canvas. This actually helped my design quite a bit when I realized everything in Illustrator is basically just a GUI interface for p5 shapes. 
+I enjoyed this weeks assignment and it got me thinking about how to place objects on a canvas. Before starting on my assignment I actually made my creature in Illustrator to get a grasp on where things would be placed in reference to the pixels on the canvas. This actually helped my design quite a bit when I realized everything in Illustrator is basically just a GUI interface for p5 shapes.
