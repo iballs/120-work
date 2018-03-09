@@ -7,8 +7,6 @@ Ian Baldessari, MART 120, Sec 50
 
 ## Description of What the Original Code is Doing
 
-<!--
---This is a Comment Block--
 
 Please describe what the original code is doing.
 
@@ -36,9 +34,6 @@ Basically:
 
   The one thing I couldn't figure out even if my life depended on it was how to create a second ball that acted independently of the first one...
 
-<!--
 Please describe how and why you changed the sketch?
 
   After seeing how the ball acted before and after a click I realized I could create two very different looking pictures out of the one sketch. By using mouseX and mouseY as size variable I was able to paint a picture with the ball that kept changing sizes. By clicking, the mouseX and mouseY created unique patterns that were static and more trippy. After being clicked in certain places the ball no longer traveled, but instead "pulsed."
-
--->
