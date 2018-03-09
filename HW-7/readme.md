@@ -1,6 +1,6 @@
 Ian Baldessari, MART 120, Sec 50
 
-[Live Sketch Link](Your Live Link)
+[https://iballs.github.io/120-work/HW-7/]
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
