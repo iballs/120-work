@@ -2,7 +2,7 @@
 
 # Final Project Proposal
 
-For my final project I would like to create a visual soundscape or a ‘music video.’  Earlier in the semester I went to go see the artist Kelly Lee Owens play a show in Idaho and I thought that the visual soundscapes she projected behind her as she played were really cool. They also seemed fairly basic so I want to see if I could give it a try. You can check out an example of her stuff here. There was also a student example used in the class shell so I know it’s possible for someone taking creative code to figure out how to create a visual soundscape.
+For my final project I would like to create a visual soundscape or a ‘music video.’  Earlier in the semester I went to go see the artist Kelly Lee Owens play a show in Idaho and I thought that the visual soundscapes she projected behind her as she played were really cool. They also seemed fairly basic so I want to see if I could give it a try. You can check out an example of her stuff here (https://www.youtube.com/watch?v=jjyxg1zVjDs). There was also a student example used in the class shell so I know it’s possible for someone taking creative code to figure out how to create a visual soundscape.
 
 Obviously I will have to learn how to incorporate sound into my sketches. This means that I will either have to:
 
