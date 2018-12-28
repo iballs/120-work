@@ -1,4 +1,4 @@
-# Ian Baldessar, MART 111, sec 50
+# Ian Baldessari, MART 111, sec 50
 
 ## Final Project Review
 
